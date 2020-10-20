@@ -1,0 +1,4 @@
+C:\Users\Leslie\Desktop\projet_TETRIS\obj\Debug\netcoreapp1.1\Tetris.csprojAssemblyReference.cache
+C:\Users\Leslie\Desktop\projet_TETRIS\obj\Debug\netcoreapp1.1\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\projet_TETRIS\obj\Debug\netcoreapp1.1\Tetris.AssemblyInfoInputs.cache
+C:\Users\Leslie\Desktop\projet_TETRIS\obj\Debug\netcoreapp1.1\Tetris.AssemblyInfo.cs

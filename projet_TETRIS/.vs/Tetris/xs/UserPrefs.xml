@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{51CEC3C5-C97C-4FC2-B5EA-E2A7CC09FA34}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tetris PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameBoard.cs">
+    <Files>
+      <File FileName="Program_entry.cs" Line="27" Column="10" />
+      <File FileName="GameBoard.cs" Line="42" Column="9" />
+      <File FileName="Interface.cs" Line="83" Column="9" />
+      <File FileName="Options.cs" Line="1" Column="1" />
+      <File FileName="Utilities_fonctions.cs" Line="25" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../TETRISCSHARP/Tetris-3/Program.cs" line="107" offsetX="1089" offsetY="1590" expression="ChoiceIndex" liveUpdate="False" />
+    <Watch file="../../../../../TETRISCSHARP/Tetris-3/Program.cs" line="107" offsetX="1089" offsetY="1590" expression="ChoiceIndex" liveUpdate="False" />
+    <Watch file="../../../../../TETRISCSHARP/Tetris-3/Program.cs" line="107" offsetX="1089" offsetY="1590" expression="ChoiceIndex" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
